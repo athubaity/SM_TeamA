@@ -3,7 +3,7 @@
 This repository was created to implement IBM Watson Assistant on a webpage and to include the .json file.
 
 you can access the assistant from
-[here](https://github.com/athubaity/SM_TeamA/Chatbot)
+[here](https://github.com/athubaity/SM_TeamA/tree/main/Chatbot)
 
 The chat bot is on the right corner of the webpage.
 
