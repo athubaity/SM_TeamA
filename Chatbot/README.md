@@ -1,4 +1,4 @@
-# sas-chatbot
+# Chatbot
 
 This repository was created to implement IBM Watson Assistant on a webpage and to include the .json file.
 
